@@ -1,0 +1,22 @@
+Q1
+A compiler is a program that converts a programming language into machine code that can be understood by the CPU of a computer. A programmer can write code in a human-readable programming language such as Java and compile it into machine-readable code which is placed into a file and can then be executed. The compilation must be performed before the code is to be executed by the computer, but this way it can catch syntax errors while it's being compiled and not when it's being run.
+
+An interpreter is a program that takes code written in a human-readable programming language like Python and compiles and executes it in the same step. It converts the Python code to machine code as it's running, so there are no intermediate files created.
+
+Python uses the interpreter and not the compiler.
+
+Q2
+See script of same name
+
+Q3
+I got a different answer from what python returned because the caret in python is not the exponent operator as expected. This can be remedied by replaced the "^" with the "**".
+x*(y+x**(x-y)+56)/4
+
+Q4
+width/2 -> 8.5 (float)
+width/2.0 -> 8.5 (float)
+height/3 -> 4.0 (float)
+1+2*5/2 -> 6.0 (float)
+
+Q5-Q9
+See script of same name
